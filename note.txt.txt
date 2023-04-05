@@ -1,2 +1,0 @@
-netlify Live link :    https://dreamy-biscotti-3fa865.netlify.app/
-github live link :     https://md-nazmul-hasan.github.io/Digital-Clock/
